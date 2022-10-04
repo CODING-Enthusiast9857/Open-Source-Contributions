@@ -22,11 +22,11 @@
 - Clone on your local machine
 
 ```
-git clone https://github.com/CODING-Enthusiast9857/Hacktoberfest2022-Open-For-Everyone.git
+git clone https://github.com/CODING-Enthusiast9857/Hacktoberfest2022-Contributions.git
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest2022-Open-For-Everyone
+cd Hacktoberfest2022-Contributions
 ```
 
 - Create a new Branch
