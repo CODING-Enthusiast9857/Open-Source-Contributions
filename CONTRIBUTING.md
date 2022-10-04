@@ -9,3 +9,10 @@
 # 📚 Contribution rules
 - Do NOT remove other content.
 - Try to keep pull requests small to minimize merge conflicts.</li>
+
+# ❓ Suggestions for Contributions
+- You can contribute mini game in any language
+- Add algorithms 
+- Add DS programs in any language
+- Add AI/ML Programs 
+- Add HelloWorld in any language
