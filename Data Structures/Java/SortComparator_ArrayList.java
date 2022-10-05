@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class SortComparator {
+public class SortComparator_ArrayList {
 
     public static void main(String[] args) {
         List<User> list = new ArrayList<>();
