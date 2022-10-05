@@ -7,4 +7,4 @@ def quicksort(lst):
     rhs = [e for e in lst if e > pivot]
     return quicksort(lhs) + [pivot] + quicksort(rhs)
 
-print(quicksort([8, 1, 4, 6, 2, 5, 7, 3, 0, 9]))
+print(quicksort(list(eval(input("Enter comma separated values : ")))))
