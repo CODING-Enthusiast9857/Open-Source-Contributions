@@ -4,7 +4,7 @@
 # About
 - This software is specially used to perform **engineering & scientific calculations**
 - It has **extensive library of predefined functions**
-- Itcan be **interfaced with various hardwares**
+- It can be **interfaced with various hardwares**
 - It reduces **engineering design, development time & cost**
 - It is not an **open source** software
 - It is developed by **MathWorks**
