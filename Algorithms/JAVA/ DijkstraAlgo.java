@@ -4,8 +4,8 @@
 // import statement  
 import java.util.*;  
   
-// Main class DijkstraExample1  
-public class DijkstraExample1  
+// Main class DijkstraAlgo 
+public class DijkstraAlgo 
 {  
   
 // Member variables of the class  
@@ -18,7 +18,7 @@ private int totalNodes;
 List<List<Node> > adjacent;  
   
 // Constructor of the class  
-public DijkstraExample1(int totalNodes)  
+public DijkstraAlgo(int totalNodes)  
 {  
   
 this.totalNodes = totalNodes;  
@@ -164,8 +164,8 @@ adjacent.get(8).add(new Node(5, 5));
 adjacent.get(8).add(new Node(6, 5));  
 adjacent.get(8).add(new Node(7, 6));  
   
-// creating an object of the class DijkstraExample1  
-DijkstraExample1 obj = new DijkstraExample1(totalNodes);  
+// creating an object of the class DijkstraAlgo  
+DijkstraAlgo obj = new DijkstraAlgo(totalNodes);  
 obj.dijkstra(adjacent, s);  
   
 // Printing the shortest path to all the nodes  
