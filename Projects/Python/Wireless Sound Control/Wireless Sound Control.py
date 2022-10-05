@@ -32,7 +32,6 @@ while True:
                  
              #mpDraw.draw_landmarks(img , handLms , mpHands.HAND_CONNECTIONS)
              #print(lmList)
-
          if lmList:
              x1, y1 = lmList[4][1] , lmList[4][2]
              x2, y2 = lmList[8][1] , lmList[8][2]   
