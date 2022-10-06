@@ -7,7 +7,6 @@ def power(x,n):
   else:
     return x*smallpower*smallpower
 
-
 base = int(input("Enter the base"))
 exponent = int(input("Enter the exponent"))
-power(base,exponent)
+print(power(base,exponent))
