@@ -4,8 +4,7 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/the-hack3rboy/Hacktoberfest-2022)
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/the-hack3rboy/Hacktoberfest-2022)
-[![Hacktoberfest-22](https://img.shields.io/static/v1.svg?label=Hacktoberfest-22&message=accepted&color=red)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Red)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
 </b>
 <br>
 
