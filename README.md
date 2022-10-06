@@ -1,10 +1,10 @@
 # 🎉Open Source Contributions🎉
 
-<b>(◔◡◔)&nbsp;
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/the-hack3rboy/Hacktoberfest-2022)
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/the-hack3rboy/Hacktoberfest-2022)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Red)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
+<b>&nbsp;&nbsp;&nbsp;(◔◡◔)&nbsp; <br><br>
+[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">](https://github.com/CODING-Enthusiast9857/Open-Source-Contributions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/CODING-Enthusiast9857/Open-Source-Contributions)
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/CODING-Enthusiast9857/Open-Source-Contributions)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Red)](https://github.com/CODING-Enthusiast9857/Open-Source-Contributions) 
 </b>
 <br>
 
