@@ -21,3 +21,6 @@ class Solution(object):
                     left = l
                     
         return s[left : right + 1]
+
+s=Solution()
+print(s.longestPalindrome("madamSir"))
