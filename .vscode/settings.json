@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "BINARY_SEARCH.C": "cpp",
+        "LINEAR_SEARCH.C": "cpp",
+        "iostream": "cpp"
+    }
+}
