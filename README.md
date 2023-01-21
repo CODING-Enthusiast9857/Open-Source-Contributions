@@ -50,7 +50,7 @@ git push origin my-new-branch
 - Added a `Node` class in the `Data Structures/Python/tree.py` file
 - The `Node` class has an instantiation method, a `search` method and an `insert` method.
 - In the `Data Structures/Python/tests` folder, I addedd unit test that uses the basic python unit tests.
-- ammendment author : (ntuifranklin)[https://github.com/ntuifranklin]
+- ammendment author : [ntuifranklin](https://github.com/ntuifranklin)
 
 
 # ❓ FAQs (Frequently Asked Questions)
