@@ -15,7 +15,7 @@ jobs:
         run: |
           pip install pytest
           cd "Data Structures/Python/tests"
-          pytest -v test_tree_instanciate.py
+          pytest -v test_tree_instantiate.py
   test_tree_insert:
     runs-on: ubuntu-latest
     container: python

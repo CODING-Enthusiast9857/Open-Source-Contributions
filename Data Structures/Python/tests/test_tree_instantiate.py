@@ -2,7 +2,7 @@ import unittest
 import sys
 
 sys.path.append('..')
-# sys.path.append('../tree.py')
+sys.path.append('../tree.py')
 from tree import Node
 class TestTreeClassInstantiate(unittest.TestCase):
 
