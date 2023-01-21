@@ -45,6 +45,11 @@ git commit -m "Relevant message"
 git push origin my-new-branch
 ```
 
+# Additions on 1/21/2023 by (ntuifranklin)[https://github.com/ntuifranklin]
+- Added a `Node` class in the `Data Structures/Python/tree.py` file
+- The `Node` class has an instantiation method, a `search` method and an `insert` method.
+- In the `Data Structures/Python/tests` folder, I addedd unit test that uses the basic python unit tests.
+
 - Create a new pull request from your forked repository
 
 # ❓ FAQs (Frequently Asked Questions)
@@ -65,3 +70,4 @@ Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" tar
 <br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
 <br>
 # 💻 Happy CODING...!! 💻
+ 
