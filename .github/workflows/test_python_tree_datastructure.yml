@@ -1,0 +1,42 @@
+name: Test Python Tree DataStrucutre
+on:
+    push:
+    pull_request:
+        branches: [add-tree-python]
+    workflow_dispatch:
+jobs:
+  test_tree_instanciate:
+    runs-on: ubuntu-latest
+    container: python
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Tests Tree DataStructure Written In Python
+        run: |
+          pip install pytest
+          cd "Data Structures/Python/tests"
+          pytest -v test_tree_instantiate.py
+  test_tree_insert:
+    runs-on: ubuntu-latest
+    container: python
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Tests Tree DataStructure Written In Python
+        run: |
+          pip install pytest
+          cd "Data Structures/Python/tests"
+          pytest -v test_tree_insert.py
+  test_tree_search:
+    runs-on: ubuntu-latest
+    container: python
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Tests Tree DataStructure Written In Python
+        run: |
+          pip install pytest
+          cd "Data Structures/Python/tests"
+          pytest -v test_tree_search.py
+          
+          
