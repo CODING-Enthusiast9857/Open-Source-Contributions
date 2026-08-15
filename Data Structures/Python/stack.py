@@ -18,7 +18,7 @@ class Stack:
 
     def pop(self):
         if self.is_empty():
-            return "Stack is empty"
+            raise IndexError("pop from empty stack")
 
         data = self.top.data
         self.top = self.top.next
@@ -26,7 +26,7 @@ class Stack:
 
     def peek(self):
         if self.is_empty():
-            return "Stack is empty"
+            raise IndexError("peek from empty stack")
 
         return self.top.data
 
